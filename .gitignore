@@ -1,0 +1,12 @@
+*.zip
+*.bundle
+/repository-history/
+/gateway-helper-current/
+/library-helper-current/
+/library_file_transfer.py
+/gateway/gateway
+**/cover.out
+**/cover.html
+/readme-helper-current/
+/test-helper-current/
+/postgres-helper-current/
